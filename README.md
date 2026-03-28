@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧭 Quotes+
+# 🧭 Quotes
 ### *a little read, to start great*
 
 ![Swift](https://img.shields.io/badge/Swift-5.9-F05138?style=for-the-badge&logo=swift&logoColor=white)
@@ -21,7 +21,7 @@
 
 ## 📖 About
 
-**Quotes+** is a minimal, single-screen iOS app that greets you each day with a fresh AI-generated inspirational quote. Beyond the quote itself, a built-in **Quote Companion** lets you dive deeper — ask questions, reflect on the meaning, or simply enjoy a thoughtful exchange.
+**Quotes** is a minimal, single-screen iOS app that greets you each day with a fresh AI-generated inspirational quote. Beyond the quote itself, a built-in **Quote Companion** lets you dive deeper — ask questions, reflect on the meaning, or simply enjoy a thoughtful exchange.
 
 This project started as a complete rebuild of [**Fortu**](https://apps.apple.com/it/app/fortu-daily-fortune/id6753077218?l=en-GB), my first iOS app, developed as part of **Challenge #2 (Americano)** at the [Apple Developer Academy](https://www.developeracademy.unina.it) 2025–26. The rebuild was driven by a desire to go deeper on SwiftUI design, fluid animations, haptics, and on-device AI through Apple's `FoundationModels` framework.
 
